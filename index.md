@@ -7,3 +7,6 @@ var myVar = "Hello, world!";
 a = 10
 print(a)
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
